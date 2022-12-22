@@ -4,7 +4,7 @@ This repo was made to learn about Docker and Kubernetes with the NestJs framewor
 
 ## System Requirements
 
-Here's system requirements fro run this project.
+Here's system requirements for run this project.
 
 - [Node.js](https://nodejs.org/en/)
 - [Docker](https://docs.docker.com/install/) - latest
