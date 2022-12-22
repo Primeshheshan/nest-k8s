@@ -1,6 +1,6 @@
 # Docker and Kubernetes with the NestJs framework.
 
-This repo made for learn about Docker and Kubernetes with the NestJs framework.
+This repo was made to learn about Docker and Kubernetes with the NestJs framework.
 
 ## System Requirements
 
@@ -18,4 +18,4 @@ Here's how to setup locally.
 2. Run `npm install` to install dependencies
 3. Copy the `.env.example` file over to your own `.env` file and update the variables
 4. Run `docker-compose up -d` to setup local environment with Docker
-5. Once the start script is done, the API Gateway will listening on [http://localhost:3000](http://localhost:3000)
+5. Once the start script is done, the API will listening on [http://localhost:3000](http://localhost:3000)
